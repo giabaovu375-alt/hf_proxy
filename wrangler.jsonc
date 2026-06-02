@@ -1,0 +1,5 @@
+{
+  "name": "hf-proxy",
+  "main": "worker.js",
+  "compatibility_date": "2026-06-02"
+}
